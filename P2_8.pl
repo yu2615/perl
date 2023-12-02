@@ -1,0 +1,11 @@
+$a = 8;
+$b = 2;
+$sum = $a + $b;
+$sub = $a - $b;
+$mul = $a * $b;
+$div = $a / $b;
+print "$a $b\n";
+print "$sum\n";
+print "$sub\n";
+print "$mul\n";
+print "$div\n";
